@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="lgmvip">LGMVIP</string>
+    <string name="world_wide">World Wide</string>
+    <string name="cases">Cases</string>
+    <string name="no_of_cases">No. of Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="no_of_recovered">No. of Recovered</string>
+    <string name="no_of_deaths">No. of Deaths</string>
+    <string name="indian_record">Indian Record</string>
+    <string name="select_state">Select State</string>
+</resources>
